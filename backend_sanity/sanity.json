@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "."
-  },
   "api": {
-    "projectId": "60slbd68",
-    "dataset": "production"
+    "projectId": "lpvumpx7",
+    "dataset": "test"
+  },
+  "project": {
+    "name": "social-media-app"
   },
   "plugins": [
     "@sanity/base",
